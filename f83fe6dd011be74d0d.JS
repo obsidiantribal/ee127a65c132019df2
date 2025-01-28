@@ -1,1 +1,1 @@
-
+teste=document.currentScript
