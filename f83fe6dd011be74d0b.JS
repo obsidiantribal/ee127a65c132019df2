@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         OBSIDIAN APP
-// @version      N/A
+// @version      2025-05-27_16-15
 // @description  This is the Official Script of OBSIDIAN, no copies or malicious attempts are authorized.
 // @match        https://*/*screen=storage*
+// @updateURL    https://raw.githubusercontent.com/obsidiantribal/ee127a65c132019df2/refs/heads/main/f83fe6dd011be74d0b.JS
+// @downloadURL  https://raw.githubusercontent.com/obsidiantribal/ee127a65c132019df2/refs/heads/main/f83fe6dd011be74d0b.JS
 // @icon         https://obsidiantribal.github.io/assets/IMG_2987.PNG
 // ==/UserScript==
 
